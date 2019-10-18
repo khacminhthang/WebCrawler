@@ -1,0 +1,224 @@
+C:\Users\Asus\source\repos\Webcrawler\obj\Debug\Webcrawler.csprojAssemblyReference.cache
+C:\Users\Asus\source\repos\Webcrawler\obj\Debug\Webcrawler.exe.config
+C:\Users\Asus\source\repos\Webcrawler\obj\Debug\Webcrawler.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\Webcrawler\bin\Debug\Webcrawler.exe.config
+C:\Users\Asus\source\repos\Webcrawler\bin\Debug\Webcrawler.exe
+C:\Users\Asus\source\repos\Webcrawler\bin\Debug\Webcrawler.pdb
+C:\Users\Asus\source\repos\Webcrawler\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\Asus\source\repos\Webcrawler\bin\Debug\netstandard.dll
+C:\Users\Asus\source\repos\Webcrawler\bin\Debug\System.AppContext.dll
+C:\Users\Asus\source\repos\Webcrawler\bin\Debug\System.Collections.Concurrent.dll
+C:\Users\Asus\source\repos\Webcrawler\bin\Debug\System.Collections.dll
+C:\Users\Asus\source\repos\Webcrawler\bin\Debug\System.Collections.NonGeneric.dll
+C:\Users\Asus\source\repos\Webcrawler\bin\Debug\System.Collections.Specialized.dll
+C:\Users\Asus\source\repos\Webcrawler\bin\Debug\System.ComponentModel.dll
+C:\Users\Asus\source\repos\Webcrawler\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\Asus\source\repos\Webcrawler\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Users\Asus\source\repos\Webcrawler\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\Users\Asus\source\repos\Webcrawler\bin\Debug\System.Console.dll
+C:\Users\Asus\source\repos\Webcrawler\bin\Debug\System.Data.Common.dll
+C:\Users\Asus\source\repos\Webcrawler\bin\Debug\System.Diagnostics.Contracts.dll
+C:\Users\Asus\source\repos\Webcrawler\bin\Debug\System.Diagnostics.Debug.dll
+C:\Users\Asus\source\repos\Webcrawler\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Asus\source\repos\Webcrawler\bin\Debug\System.Diagnostics.Process.dll
+C:\Users\Asus\source\repos\Webcrawler\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\Asus\source\repos\Webcrawler\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\Asus\source\repos\Webcrawler\bin\Debug\System.Diagnostics.Tools.dll
+C:\Users\Asus\source\repos\Webcrawler\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\Users\Asus\source\repos\Webcrawler\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Users\Asus\source\repos\Webcrawler\bin\Debug\System.Drawing.Primitives.dll
+C:\Users\Asus\source\repos\Webcrawler\bin\Debug\System.Dynamic.Runtime.dll
+C:\Users\Asus\source\repos\Webcrawler\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\Asus\source\repos\Webcrawler\bin\Debug\System.Globalization.dll
+C:\Users\Asus\source\repos\Webcrawler\bin\Debug\System.Globalization.Extensions.dll
+C:\Users\Asus\source\repos\Webcrawler\bin\Debug\System.IO.Compression.dll
+C:\Users\Asus\source\repos\Webcrawler\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\Asus\source\repos\Webcrawler\bin\Debug\System.IO.dll
+C:\Users\Asus\source\repos\Webcrawler\bin\Debug\System.IO.FileSystem.dll
+C:\Users\Asus\source\repos\Webcrawler\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Asus\source\repos\Webcrawler\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\Asus\source\repos\Webcrawler\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\Users\Asus\source\repos\Webcrawler\bin\Debug\System.IO.IsolatedStorage.dll
+C:\Users\Asus\source\repos\Webcrawler\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\Users\Asus\source\repos\Webcrawler\bin\Debug\System.IO.Pipes.dll
+C:\Users\Asus\source\repos\Webcrawler\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\Asus\source\repos\Webcrawler\bin\Debug\System.Linq.dll
+C:\Users\Asus\source\repos\Webcrawler\bin\Debug\System.Linq.Expressions.dll
+C:\Users\Asus\source\repos\Webcrawler\bin\Debug\System.Linq.Parallel.dll
+C:\Users\Asus\source\repos\Webcrawler\bin\Debug\System.Linq.Queryable.dll
+C:\Users\Asus\source\repos\Webcrawler\bin\Debug\System.Net.Http.dll
+C:\Users\Asus\source\repos\Webcrawler\bin\Debug\System.Net.NameResolution.dll
+C:\Users\Asus\source\repos\Webcrawler\bin\Debug\System.Net.NetworkInformation.dll
+C:\Users\Asus\source\repos\Webcrawler\bin\Debug\System.Net.Ping.dll
+C:\Users\Asus\source\repos\Webcrawler\bin\Debug\System.Net.Primitives.dll
+C:\Users\Asus\source\repos\Webcrawler\bin\Debug\System.Net.Requests.dll
+C:\Users\Asus\source\repos\Webcrawler\bin\Debug\System.Net.Security.dll
+C:\Users\Asus\source\repos\Webcrawler\bin\Debug\System.Net.Sockets.dll
+C:\Users\Asus\source\repos\Webcrawler\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\Asus\source\repos\Webcrawler\bin\Debug\System.Net.WebSockets.Client.dll
+C:\Users\Asus\source\repos\Webcrawler\bin\Debug\System.Net.WebSockets.dll
+C:\Users\Asus\source\repos\Webcrawler\bin\Debug\System.ObjectModel.dll
+C:\Users\Asus\source\repos\Webcrawler\bin\Debug\System.Reflection.dll
+C:\Users\Asus\source\repos\Webcrawler\bin\Debug\System.Reflection.Extensions.dll
+C:\Users\Asus\source\repos\Webcrawler\bin\Debug\System.Reflection.Primitives.dll
+C:\Users\Asus\source\repos\Webcrawler\bin\Debug\System.Resources.Reader.dll
+C:\Users\Asus\source\repos\Webcrawler\bin\Debug\System.Resources.ResourceManager.dll
+C:\Users\Asus\source\repos\Webcrawler\bin\Debug\System.Resources.Writer.dll
+C:\Users\Asus\source\repos\Webcrawler\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\Asus\source\repos\Webcrawler\bin\Debug\System.Runtime.dll
+C:\Users\Asus\source\repos\Webcrawler\bin\Debug\System.Runtime.Extensions.dll
+C:\Users\Asus\source\repos\Webcrawler\bin\Debug\System.Runtime.Handles.dll
+C:\Users\Asus\source\repos\Webcrawler\bin\Debug\System.Runtime.InteropServices.dll
+C:\Users\Asus\source\repos\Webcrawler\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Asus\source\repos\Webcrawler\bin\Debug\System.Runtime.Numerics.dll
+C:\Users\Asus\source\repos\Webcrawler\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\Users\Asus\source\repos\Webcrawler\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\Asus\source\repos\Webcrawler\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\Asus\source\repos\Webcrawler\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\Asus\source\repos\Webcrawler\bin\Debug\System.Security.Claims.dll
+C:\Users\Asus\source\repos\Webcrawler\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\Asus\source\repos\Webcrawler\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\Users\Asus\source\repos\Webcrawler\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\Asus\source\repos\Webcrawler\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\Asus\source\repos\Webcrawler\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Asus\source\repos\Webcrawler\bin\Debug\System.Security.Principal.dll
+C:\Users\Asus\source\repos\Webcrawler\bin\Debug\System.Security.SecureString.dll
+C:\Users\Asus\source\repos\Webcrawler\bin\Debug\System.Text.Encoding.dll
+C:\Users\Asus\source\repos\Webcrawler\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\Asus\source\repos\Webcrawler\bin\Debug\System.Text.RegularExpressions.dll
+C:\Users\Asus\source\repos\Webcrawler\bin\Debug\System.Threading.dll
+C:\Users\Asus\source\repos\Webcrawler\bin\Debug\System.Threading.Overlapped.dll
+C:\Users\Asus\source\repos\Webcrawler\bin\Debug\System.Threading.Tasks.dll
+C:\Users\Asus\source\repos\Webcrawler\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\Asus\source\repos\Webcrawler\bin\Debug\System.Threading.Thread.dll
+C:\Users\Asus\source\repos\Webcrawler\bin\Debug\System.Threading.ThreadPool.dll
+C:\Users\Asus\source\repos\Webcrawler\bin\Debug\System.Threading.Timer.dll
+C:\Users\Asus\source\repos\Webcrawler\bin\Debug\System.ValueTuple.dll
+C:\Users\Asus\source\repos\Webcrawler\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\Asus\source\repos\Webcrawler\bin\Debug\System.Xml.XDocument.dll
+C:\Users\Asus\source\repos\Webcrawler\bin\Debug\System.Xml.XmlDocument.dll
+C:\Users\Asus\source\repos\Webcrawler\bin\Debug\System.Xml.XmlSerializer.dll
+C:\Users\Asus\source\repos\Webcrawler\bin\Debug\System.Xml.XPath.dll
+C:\Users\Asus\source\repos\Webcrawler\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\Asus\source\repos\Webcrawler\bin\Debug\Fizzler.dll
+C:\Users\Asus\source\repos\Webcrawler\bin\Debug\Fizzler.Systems.HtmlAgilityPack.dll
+C:\Users\Asus\source\repos\Webcrawler\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Asus\source\repos\Webcrawler\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Asus\source\repos\Webcrawler\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\Asus\source\repos\Webcrawler\bin\Debug\HtmlAgilityPack.xml
+C:\Users\Asus\source\repos\Webcrawler\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Asus\source\repos\Webcrawler\obj\Debug\Webcrawler.csproj.CopyComplete
+C:\Users\Asus\source\repos\Webcrawler\obj\Debug\Webcrawler.exe
+C:\Users\Asus\source\repos\Webcrawler\obj\Debug\Webcrawler.pdb
+D:\Web Crawler\Webcrawler\bin\Debug\Webcrawler.exe.config
+D:\Web Crawler\Webcrawler\bin\Debug\Webcrawler.exe
+D:\Web Crawler\Webcrawler\bin\Debug\Webcrawler.pdb
+D:\Web Crawler\Webcrawler\bin\Debug\Microsoft.Win32.Primitives.dll
+D:\Web Crawler\Webcrawler\bin\Debug\netstandard.dll
+D:\Web Crawler\Webcrawler\bin\Debug\System.AppContext.dll
+D:\Web Crawler\Webcrawler\bin\Debug\System.Collections.Concurrent.dll
+D:\Web Crawler\Webcrawler\bin\Debug\System.Collections.dll
+D:\Web Crawler\Webcrawler\bin\Debug\System.Collections.NonGeneric.dll
+D:\Web Crawler\Webcrawler\bin\Debug\System.Collections.Specialized.dll
+D:\Web Crawler\Webcrawler\bin\Debug\System.ComponentModel.dll
+D:\Web Crawler\Webcrawler\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+D:\Web Crawler\Webcrawler\bin\Debug\System.ComponentModel.Primitives.dll
+D:\Web Crawler\Webcrawler\bin\Debug\System.ComponentModel.TypeConverter.dll
+D:\Web Crawler\Webcrawler\bin\Debug\System.Console.dll
+D:\Web Crawler\Webcrawler\bin\Debug\System.Data.Common.dll
+D:\Web Crawler\Webcrawler\bin\Debug\System.Diagnostics.Contracts.dll
+D:\Web Crawler\Webcrawler\bin\Debug\System.Diagnostics.Debug.dll
+D:\Web Crawler\Webcrawler\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+D:\Web Crawler\Webcrawler\bin\Debug\System.Diagnostics.Process.dll
+D:\Web Crawler\Webcrawler\bin\Debug\System.Diagnostics.StackTrace.dll
+D:\Web Crawler\Webcrawler\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+D:\Web Crawler\Webcrawler\bin\Debug\System.Diagnostics.Tools.dll
+D:\Web Crawler\Webcrawler\bin\Debug\System.Diagnostics.TraceSource.dll
+D:\Web Crawler\Webcrawler\bin\Debug\System.Diagnostics.Tracing.dll
+D:\Web Crawler\Webcrawler\bin\Debug\System.Drawing.Primitives.dll
+D:\Web Crawler\Webcrawler\bin\Debug\System.Dynamic.Runtime.dll
+D:\Web Crawler\Webcrawler\bin\Debug\System.Globalization.Calendars.dll
+D:\Web Crawler\Webcrawler\bin\Debug\System.Globalization.dll
+D:\Web Crawler\Webcrawler\bin\Debug\System.Globalization.Extensions.dll
+D:\Web Crawler\Webcrawler\bin\Debug\System.IO.Compression.dll
+D:\Web Crawler\Webcrawler\bin\Debug\System.IO.Compression.ZipFile.dll
+D:\Web Crawler\Webcrawler\bin\Debug\System.IO.dll
+D:\Web Crawler\Webcrawler\bin\Debug\System.IO.FileSystem.dll
+D:\Web Crawler\Webcrawler\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+D:\Web Crawler\Webcrawler\bin\Debug\System.IO.FileSystem.Primitives.dll
+D:\Web Crawler\Webcrawler\bin\Debug\System.IO.FileSystem.Watcher.dll
+D:\Web Crawler\Webcrawler\bin\Debug\System.IO.IsolatedStorage.dll
+D:\Web Crawler\Webcrawler\bin\Debug\System.IO.MemoryMappedFiles.dll
+D:\Web Crawler\Webcrawler\bin\Debug\System.IO.Pipes.dll
+D:\Web Crawler\Webcrawler\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+D:\Web Crawler\Webcrawler\bin\Debug\System.Linq.dll
+D:\Web Crawler\Webcrawler\bin\Debug\System.Linq.Expressions.dll
+D:\Web Crawler\Webcrawler\bin\Debug\System.Linq.Parallel.dll
+D:\Web Crawler\Webcrawler\bin\Debug\System.Linq.Queryable.dll
+D:\Web Crawler\Webcrawler\bin\Debug\System.Net.Http.dll
+D:\Web Crawler\Webcrawler\bin\Debug\System.Net.NameResolution.dll
+D:\Web Crawler\Webcrawler\bin\Debug\System.Net.NetworkInformation.dll
+D:\Web Crawler\Webcrawler\bin\Debug\System.Net.Ping.dll
+D:\Web Crawler\Webcrawler\bin\Debug\System.Net.Primitives.dll
+D:\Web Crawler\Webcrawler\bin\Debug\System.Net.Requests.dll
+D:\Web Crawler\Webcrawler\bin\Debug\System.Net.Security.dll
+D:\Web Crawler\Webcrawler\bin\Debug\System.Net.Sockets.dll
+D:\Web Crawler\Webcrawler\bin\Debug\System.Net.WebHeaderCollection.dll
+D:\Web Crawler\Webcrawler\bin\Debug\System.Net.WebSockets.Client.dll
+D:\Web Crawler\Webcrawler\bin\Debug\System.Net.WebSockets.dll
+D:\Web Crawler\Webcrawler\bin\Debug\System.ObjectModel.dll
+D:\Web Crawler\Webcrawler\bin\Debug\System.Reflection.dll
+D:\Web Crawler\Webcrawler\bin\Debug\System.Reflection.Extensions.dll
+D:\Web Crawler\Webcrawler\bin\Debug\System.Reflection.Primitives.dll
+D:\Web Crawler\Webcrawler\bin\Debug\System.Resources.Reader.dll
+D:\Web Crawler\Webcrawler\bin\Debug\System.Resources.ResourceManager.dll
+D:\Web Crawler\Webcrawler\bin\Debug\System.Resources.Writer.dll
+D:\Web Crawler\Webcrawler\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+D:\Web Crawler\Webcrawler\bin\Debug\System.Runtime.dll
+D:\Web Crawler\Webcrawler\bin\Debug\System.Runtime.Extensions.dll
+D:\Web Crawler\Webcrawler\bin\Debug\System.Runtime.Handles.dll
+D:\Web Crawler\Webcrawler\bin\Debug\System.Runtime.InteropServices.dll
+D:\Web Crawler\Webcrawler\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Web Crawler\Webcrawler\bin\Debug\System.Runtime.Numerics.dll
+D:\Web Crawler\Webcrawler\bin\Debug\System.Runtime.Serialization.Formatters.dll
+D:\Web Crawler\Webcrawler\bin\Debug\System.Runtime.Serialization.Json.dll
+D:\Web Crawler\Webcrawler\bin\Debug\System.Runtime.Serialization.Primitives.dll
+D:\Web Crawler\Webcrawler\bin\Debug\System.Runtime.Serialization.Xml.dll
+D:\Web Crawler\Webcrawler\bin\Debug\System.Security.Claims.dll
+D:\Web Crawler\Webcrawler\bin\Debug\System.Security.Cryptography.Algorithms.dll
+D:\Web Crawler\Webcrawler\bin\Debug\System.Security.Cryptography.Csp.dll
+D:\Web Crawler\Webcrawler\bin\Debug\System.Security.Cryptography.Encoding.dll
+D:\Web Crawler\Webcrawler\bin\Debug\System.Security.Cryptography.Primitives.dll
+D:\Web Crawler\Webcrawler\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+D:\Web Crawler\Webcrawler\bin\Debug\System.Security.Principal.dll
+D:\Web Crawler\Webcrawler\bin\Debug\System.Security.SecureString.dll
+D:\Web Crawler\Webcrawler\bin\Debug\System.Text.Encoding.dll
+D:\Web Crawler\Webcrawler\bin\Debug\System.Text.Encoding.Extensions.dll
+D:\Web Crawler\Webcrawler\bin\Debug\System.Text.RegularExpressions.dll
+D:\Web Crawler\Webcrawler\bin\Debug\System.Threading.dll
+D:\Web Crawler\Webcrawler\bin\Debug\System.Threading.Overlapped.dll
+D:\Web Crawler\Webcrawler\bin\Debug\System.Threading.Tasks.dll
+D:\Web Crawler\Webcrawler\bin\Debug\System.Threading.Tasks.Parallel.dll
+D:\Web Crawler\Webcrawler\bin\Debug\System.Threading.Thread.dll
+D:\Web Crawler\Webcrawler\bin\Debug\System.Threading.ThreadPool.dll
+D:\Web Crawler\Webcrawler\bin\Debug\System.Threading.Timer.dll
+D:\Web Crawler\Webcrawler\bin\Debug\System.ValueTuple.dll
+D:\Web Crawler\Webcrawler\bin\Debug\System.Xml.ReaderWriter.dll
+D:\Web Crawler\Webcrawler\bin\Debug\System.Xml.XDocument.dll
+D:\Web Crawler\Webcrawler\bin\Debug\System.Xml.XmlDocument.dll
+D:\Web Crawler\Webcrawler\bin\Debug\System.Xml.XmlSerializer.dll
+D:\Web Crawler\Webcrawler\bin\Debug\System.Xml.XPath.dll
+D:\Web Crawler\Webcrawler\bin\Debug\System.Xml.XPath.XDocument.dll
+D:\Web Crawler\Webcrawler\bin\Debug\Fizzler.dll
+D:\Web Crawler\Webcrawler\bin\Debug\Fizzler.Systems.HtmlAgilityPack.dll
+D:\Web Crawler\Webcrawler\bin\Debug\HtmlAgilityPack.dll
+D:\Web Crawler\Webcrawler\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\Web Crawler\Webcrawler\bin\Debug\HtmlAgilityPack.pdb
+D:\Web Crawler\Webcrawler\bin\Debug\HtmlAgilityPack.xml
+D:\Web Crawler\Webcrawler\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\Web Crawler\Webcrawler\obj\Debug\Webcrawler.csprojAssemblyReference.cache
+D:\Web Crawler\Webcrawler\obj\Debug\Webcrawler.exe.config
+D:\Web Crawler\Webcrawler\obj\Debug\Webcrawler.csproj.CoreCompileInputs.cache
+D:\Web Crawler\Webcrawler\obj\Debug\Webcrawler.csproj.CopyComplete
+D:\Web Crawler\Webcrawler\obj\Debug\Webcrawler.exe
+D:\Web Crawler\Webcrawler\obj\Debug\Webcrawler.pdb

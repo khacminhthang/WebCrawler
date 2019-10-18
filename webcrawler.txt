@@ -1,0 +1,17 @@
+﻿TRÍCH XUẤT THÔNG TIN TỪ WEBSITE VỚI HTML AGLITITY PACK
+https://toidicodedao.com/2015/07/28/tutorial-trich-xuat-thong-tin-tu-website-voi-html-aglitity-pack/
+
+-	Vào Tools -> Library Package Manager -> Package Manager Console. Đánh câu lệnh sau để cài đặt thư viện:
+
+Install-Package Fizzler.Systems.HtmlAgilityPack
+
+- HTMLDocument: Là một class chứa thông tin về một file html(encoding, innerhtml). Ta có thể load dữ liệu vào HTMLDocument từ 1 URL hoặc 1 file.
+- HTMLNode: Tương đương với một tag(li,ul,div,...) trong HTML Node lớn nhất là DocumentNode. Một số property của HTMLNode hay sử dụng: 
+	- Name : Tên của node
+	- Attributes: Danh sách các attribute của node
+	- InnerHTML, OuterHTML
+	- SelectNodes(string xPath): Tìm các node con của node hiện tại xác định dựa trên xPath đưa vào.
+	- SelectSingleNode(string xPath): Tìm node con đầu tiên của node hiện tại xác định dựa trên xPath đưa vào.
+	- Descendants(string xPath): Trả danh sách các HTMLNode con của node hiện tại.
+	- QuerySelectorAll : Tìm tất cả các nut con của nút hiện hành, dựa trên css selector đưa vào.
+	- QuerySelector: Tìm node con đầu tiên của node hiện hành, dựa trên css selector đưa vào.
